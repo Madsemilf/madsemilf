@@ -1,6 +1,3 @@
-<div align=center> Hi there 👋 </div>
-
-
 <div align=center display=inline>
   
   <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=transparent" />

@@ -1,10 +1,17 @@
-<div align=center display=inline>
+## Hey 👋, I'm Mads-Emil Fellkjær!  
+<br/>  
+## Github Stats  
+<br/>  
+<table><tr><td valign="top" width="50%">
   
-  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=transparent" />
- 
-  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact" />
+<img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=transparent" />
 
-</div> 
+</td><td valign="top" width="50%">
+ 
+<img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact" />
+  
+</td></tr></table>  
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
 

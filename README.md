@@ -12,6 +12,13 @@
   
 </td></tr></table>  
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=madsemilf&&style=flat-square)  
+  
+
+<br/>  
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
 

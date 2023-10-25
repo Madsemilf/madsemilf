@@ -1,26 +1,26 @@
-## Hey 👋, I'm Mads-Emil Fellkjær!  
-<br/>  
-## Github Stats  
-<br/>  
-<table><tr><td valign="top" width="50%">
+## Hey 👋, I'm Mads-Emil Fellkjær!
+<br/>
+
+## GitHub Stats
+<br/>
+
+<div style="display: flex; background-color: #000; padding: 10px; border-radius: 8px;">
+  <div style="flex: 1; background-color: #000; padding: 10px; border-radius: 8px;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=dark&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="GitHub Stats" style="height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=dark&layout=compact&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="Top Languages" style="height: 200px;">
+    </div>
+  </div>
+</div>
+
+<br/>
+
+<div style="background-color: #000; padding: 10px; text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=madsemilf&&style=flat-square" alt="Profile views counter">
+</div>
   
-<img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=transparent" />
 
-</td><td valign="top" width="50%">
- 
-<img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact" />
-  
-</td></tr></table>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=madsemilf&&style=flat-square)  
-  
-
-<br/>  
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
+<br/> 
 
 <!--
 **Madsemilf/madsemilf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/anuraghazra/github-readme-stats
 -->

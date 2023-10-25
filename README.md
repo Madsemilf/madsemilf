@@ -6,8 +6,8 @@
 
 <div style="display: flex; background-color: #000; padding: 10px; border-radius: 8px;">
   <div style="flex: 1; background-color: #000; padding: 10px; border-radius: 8px; display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=dark&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="GitHub Stats" style="height: 200px; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=dark&layout=compact&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="Top Languages" style="height: 200px; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=madsemilf&count_private=true&show_icons=true&theme=dark&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="GitHub Stats" style="height: 200px; width: 365px; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=dark&layout=compact&bg_color=000&title_color=E0FFFF&text_color=FF7F50&border=0" alt="Top Languages" style="height: 200px; width: 278px; flex: 1;">
   </div>
 </div>
 
